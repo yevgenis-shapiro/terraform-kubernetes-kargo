@@ -1,5 +1,5 @@
-![kargo](https://github.com/user-attachments/assets/2a30860b-2650-4154-8226-1615ba3d3b20)
 
+![P5esNo604TwM3IYa7vyksyaJQ](https://github.com/user-attachments/assets/ad74e54b-7f4c-46e2-a12e-8036c0707956)
 
  
 ## Terraform Module - Kargo | 🚀🚀🚀 

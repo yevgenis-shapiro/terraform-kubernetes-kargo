@@ -7,7 +7,11 @@ Kargo is a next-generation continuous delivery and application lifecycle orchest
 
 🎯 Features
 ```
-
+✅ Flexible promotion pipeline
+✅ Unified change visualization
+✅ User-friendly interface
+✅ Safer, reliable deployments
+✅ Testing and verification
 ```
 
 🔨 Example : Config

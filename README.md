@@ -18,6 +18,17 @@ Kargo is a next-generation continuous delivery and application lifecycle orchest
 
 ```
 apiVersion: kargo.akuity.io/v1alpha1
+kind: Project
+metadata:
+  name: example
+spec:
+  promotionPolicies:
+  - stage: test
+    autoPromotionEnabled: true
+
+---
+
+apiVersion: kargo.akuity.io/v1alpha1
 kind: Stage
 metadata:
   name: test
